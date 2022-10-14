@@ -3,6 +3,7 @@
 nuxt.d.ts
 .output
 .env
+.yarn
 
 # compiled output
 /dist
